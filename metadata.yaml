@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25288'
     url: http://www.gutenberg.org/2009/agents/25288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22363#The-Country-of-the-Neutrals-As-Far-As-Comprised-in-the-County-of-Elgin--From-Champlain-to-Tal_
 gutenberg_issued: '2007-08-21'
 gutenberg_type: Text
 identifiers:
